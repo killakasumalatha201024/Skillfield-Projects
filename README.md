@@ -9,8 +9,11 @@ As part of the Skillfield Mentor Projects program, I worked on real-time data an
 3) Heart Rate Prediction – Used logistic regression on the Framingham dataset to predict heart disease risk.
 
 🔹 Skills Gained:
--> Data Preprocessing, EDA
--> Logistic & Linear Regression
--> Model Evaluation (Accuracy, Confusion Matrix)
--> Visualization using Matplotlib & Seaborn
 
+* 🧹 Data Preprocessing & Exploratory Data Analysis (EDA)
+
+* 📈 Logistic & Linear Regression for prediction tasks
+
+* 📊 Model Evaluation using Accuracy Score & Confusion Matrix
+
+* 🎨 Visualization with Matplotlib & Seaborn for insight presentation
